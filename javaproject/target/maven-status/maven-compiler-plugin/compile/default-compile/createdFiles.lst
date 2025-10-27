@@ -1,0 +1,9 @@
+com\bank\loanchecker\service\LoanEligibilityService.class
+com\bank\loanchecker\model\LoanEligibilityResult.class
+com\bank\loanchecker\service\LoanEligibilityService$1.class
+com\bank\loanchecker\controller\LoanController.class
+com\bank\loanchecker\model\LoanType.class
+com\bank\loanchecker\model\EmploymentType.class
+com\bank\loanchecker\model\LoanApplication.class
+com\bank\loanchecker\LoanEligibilityCheckerApplication.class
+com\bank\loanchecker\model\Customer.class
